@@ -87,59 +87,93 @@ COVID19-INDIA-ANALYSIS/
 
 # 📊 Exploratory Data Analysis
 
-## Chart 1
-Daily Confirmed COVID-19 Cases
+## 📈 Chart 1: Daily Confirmed COVID-19 Cases
+Visualizes the day-to-day trend of confirmed COVID-19 cases in India, helping identify infection surges and major outbreak periods.
 
-## Chart 2
-Daily Recovered COVID-19 Cases
+---
 
-## Chart 3
-Daily Deceased COVID-19 Cases
+## 📈 Chart 2: Daily Recovered COVID-19 Cases
+Shows the daily recovery trend and illustrates how patient recoveries changed throughout the pandemic.
 
-## Chart 4
-Top 10 States by Confirmed Cases
+---
 
-## Chart 5
-Top 10 States by Recovered Cases
+## 📈 Chart 3: Daily Deceased COVID-19 Cases
+Displays the daily number of COVID-19 deaths, highlighting mortality trends over time.
 
-## Chart 6
-Top 10 States by Death Cases
+---
 
-## Chart 7
-Top 10 States by COVID-19 Tests
+## 📊 Chart 4: Top 10 States by Confirmed Cases
+Compares the ten Indian states with the highest cumulative confirmed COVID-19 cases.
 
-## Chart 8
-Monthly Confirmed Cases
+---
 
-## Chart 9
-Monthly Recovered Cases
+## 📊 Chart 5: Top 10 States by Recovered Cases
+Ranks the top ten states based on the total number of recovered COVID-19 patients.
 
-## Chart 10
-Monthly Death Cases
+---
 
-## Chart 11
-Monthly Recovery Rate
+## 📊 Chart 6: Top 10 States by Death Cases
+Illustrates the states that recorded the highest cumulative COVID-19 deaths.
 
-## Chart 12
-Monthly Active Cases
+---
 
-## Chart 13
-Correlation Heatmap
+## 📊 Chart 7: Top 10 States by COVID-19 Tests
+Compares testing volumes across Indian states to understand testing efforts.
 
-## Chart 14
-COVID-19 Fatality Rate
+---
 
-## Chart 15
-Confirmed Cases vs Recovered Cases
+## 📈 Chart 8: Monthly Confirmed Cases
+Shows the monthly trend of confirmed COVID-19 cases, making long-term patterns easier to observe.
 
-## Chart 16
-7-Day Rolling Average of Daily Confirmed Cases
+---
 
-## Chart 17
-COVID-19 Waves in India
+## 📈 Chart 9: Monthly Recovered Cases
+Displays monthly recovery trends and compares recovery growth throughout the pandemic.
 
-## Chart 18
-Top 10 Indian States by Custom COVID-19 Risk Score
+---
+
+## 📈 Chart 10: Monthly Death Cases
+Visualizes monthly COVID-19 deaths to identify periods with increased mortality.
+
+---
+
+## 📊 Chart 11: Recovery Rate Over Time
+Shows how the COVID-19 recovery rate changed throughout the pandemic using feature engineering.
+
+---
+
+## 📊 Chart 12: Fatality Rate Over Time
+Illustrates changes in the case fatality rate over time, providing insight into disease severity.
+
+---
+
+## 🔥 Chart 13: Correlation Heatmap
+Displays correlations between major COVID-19 variables such as confirmed, recovered, deceased, and tested cases.
+
+---
+
+## 📉 Chart 14: Confirmed vs Recovered Cases
+Uses a scatter plot to explore the relationship between confirmed and recovered cases across states.
+
+---
+
+## 📈 Chart 15: 7-Day Rolling Average of Daily Confirmed Cases
+Smooths daily fluctuations using a rolling average to reveal the underlying infection trend.
+
+---
+
+## 🌊 Chart 16: COVID-19 Waves in India
+Highlights the First and Second COVID-19 waves using annotated time-series visualization.
+
+---
+
+## 🥧 Chart 17: COVID-19 Case Distribution
+Visualizes the proportion of recovered, deceased, and active cases using a pie chart.
+
+---
+
+## 📊 Chart 18: Top 10 Indian States by Custom COVID-19 Risk Score
+Ranks Indian states using a custom analytical risk score derived from confirmed, active, and deceased cases for exploratory analysis.
 
 ---
 
